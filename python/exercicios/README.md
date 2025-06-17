@@ -4,7 +4,7 @@
 
 ## Enunciados
 
-#### [Exercicio 001](exercicio_logica/exercicio_01.py)
+#### [Exercicio 001](exercicio_01.py)
 
 Faça um Programa que mostre a mensagem "Hello Wolrd!" na tela.
 
