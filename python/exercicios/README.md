@@ -65,3 +65,14 @@ Escreva um jogo de pedra, papel ou tesoura, você devera jogar contra o computad
 - O computador irá sempre sortear um número de 1 até 3 para jogar
 - Armazene todos os resultados em uma lista e no final, apresente o vencedor
 - Encerre o programa ao digitar zero
+
+#### [Exercicio 013](exercicio_13.py)
+
+Crie um programa que peça ao usuário para digitar a altitude inicial de um objeto em queda livre a partir do repouso.
+Em seguida, o programa deve calcular e mostrar o tempo que o objeto leva para atingir o solo, desconsiderando a resistência do ar.
+
+#### [Exercicio 014](exercicio_14.py)
+
+Crie um programa que peça ao usuário para digitar o valor inicial de um investimento,
+a taxa de juros mensal e o número de meses que o valor ficou investido. Em seguida, o programa deve calcular e mostrar 
+o valor final do investimento, considerando o uso de juros compostos.
